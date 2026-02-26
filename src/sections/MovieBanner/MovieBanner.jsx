@@ -15,7 +15,7 @@ const MovieBanner = () => {
         TitleTag="h1"
         description="A fiery young man clashes with an unflinching forest officer in a south Indian village where spirituality, fate and folklore rule the lands."
         isSmallPaddingY
-        imgSrc="/src/assets/images/movie-banner/2.jpg"
+        imgSrc="/src/assets/images/movie-banner/banner2.jpg"
       />
     </section>
   )
