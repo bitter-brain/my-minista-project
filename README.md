@@ -1,5 +1,7 @@
 # StreamVibe
 
+https://my-minista-project.vercel.app/show
+
 **StreamVibe** is a front-end project that recreates the interface of a modern streaming service.  
 The main goal of the project is to practice building complex UI components and a scalable architecture using **vanilla JavaScript** and modern development tools.
 
